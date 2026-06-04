@@ -1,0 +1,8 @@
+node_modules/
+server/db/storage.db
+client/dist/
+*.log
+.DS_Store
+Thumbs.db
+cloudflared.exe
+seed-test-data.js
